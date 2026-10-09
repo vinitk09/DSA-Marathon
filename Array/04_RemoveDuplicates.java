@@ -1,19 +1,12 @@
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+// Two pointers. Time: O(n). Extra space: O(1).
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int i = 0;
-         int j = i ;
-         while(i <= j && j < nums.length){
-            if(nums[i] == nums[j]){
-                j++;
-            }
-            else{
-                i++;
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
-                j++;
-            }
-         }
-         return i+1;
+        if (nums.length == 0) return 0;
+        int write = 1;
+        for (int read = 1; read < nums.length; read++) {
+            if (nums[read] != nums[write - 1]) nums[write++] = nums[read];
+        }
+        return write;
     }
 }
