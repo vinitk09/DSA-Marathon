@@ -44,3 +44,40 @@ WARNING: Unmatched cancel notification for request id 25
 2026.10.12 19:21:36 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java
 2026.10.12 19:21:36 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
 2026.10.12 19:21:38 INFO  time: code lens generation in 1.84s
+Oct 13, 2026 10:13:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.13 10:13:15 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.18 13:53:55 INFO  Tracing is disabled for protocol LSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at c:\Users\ventu\Desktop\DSAMarathon\.metals\lsp.trace.json or C:\Users\ventu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2026.10.18 13:56:44 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\ventu\Desktop\DSAMarathon' for client Visual Studio Code 1.142.0.
+2026.10.18 13:56:45 INFO  time: initialize in 0.29s
+2026.10.18 13:56:45 INFO  Memory monitor started
+2026.10.18 13:56:59 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.18 13:57:02 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.18 13:57:04 WARN  no build tool detected in workspace 'C:\Users\ventu\Desktop\DSAMarathon'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.10.18 13:57:04 WARN  Build server is not auto-connectable.
+2026.10.18 13:57:05 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java
+2026.10.18 13:57:08 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.18 13:57:15 INFO  time: code lens generation in 11s
+Oct 18, 2026 1:57:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.18 13:57:29 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.18 13:57:34 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.19 10:50:40 INFO  Tracing is disabled for protocol LSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at c:\Users\ventu\Desktop\DSAMarathon\.metals\lsp.trace.json or C:\Users\ventu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2026.10.19 10:50:43 INFO  logging to files C:\Users\ventu\Desktop\DSAMarathon\.metals\metals.log
+2026.10.19 10:50:43 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\ventu\Desktop\DSAMarathon' for client Visual Studio Code 1.142.0.
+2026.10.19 10:50:43 INFO  Memory monitor started
+2026.10.19 10:50:50 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.19 10:50:52 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.19 10:50:52 WARN  no build tool detected in workspace 'C:\Users\ventu\Desktop\DSAMarathon'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.10.19 10:50:52 WARN  Build server is not auto-connectable.
+2026.10.19 10:50:53 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java
+2026.10.19 10:50:53 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.19 10:51:00 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.19 10:51:05 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.19 10:53:49 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\12_Bonus_Maximum_Product_Subarray.java. Using fallback presentation compiler.
+2026.10.19 10:53:49 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java
+2026.10.19 10:53:49 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java. Using fallback presentation compiler.
+2026.10.19 10:53:51 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java. Using fallback presentation compiler.
+2026.10.19 10:53:51 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java. Using fallback presentation compiler.
+2026.10.19 10:53:53 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java. Using fallback presentation compiler.
+2026.10.19 10:54:14 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java. Using fallback presentation compiler.
