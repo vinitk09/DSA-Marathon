@@ -81,3 +81,31 @@ INFO: Unsupported notification method: $/setTrace
 2026.10.19 10:53:51 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java. Using fallback presentation compiler.
 2026.10.19 10:53:53 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java. Using fallback presentation compiler.
 2026.10.19 10:54:14 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java. Using fallback presentation compiler.
+2026.10.19 11:04:04 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\Array\37_Sqrt_x.java. Using fallback presentation compiler.
+2026.10.19 11:04:08 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:08 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java
+2026.10.19 11:04:08 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:08 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:08 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:09 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:09 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:09 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:29 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:29 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:30 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:30 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.19 11:04:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\45_Bonus_Merge_Two_Sorted_Lists.java. Using fallback presentation compiler.
+2026.10.21 19:28:07 INFO  Tracing is disabled for protocol LSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at c:\Users\ventu\Desktop\DSAMarathon\.metals\lsp.trace.json or C:\Users\ventu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2026.10.21 19:28:17 INFO  logging to files C:\Users\ventu\Desktop\DSAMarathon\.metals\metals.log
+2026.10.21 19:28:17 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\ventu\Desktop\DSAMarathon' for client Visual Studio Code 1.142.0.
+2026.10.21 19:28:17 INFO  time: initialize in 0.23s
+2026.10.21 19:28:17 INFO  Memory monitor started
+2026.10.21 19:28:27 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.21 19:28:30 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\46_Linked_List_Cycle.java. Using fallback presentation compiler.
+2026.10.21 19:28:33 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\46_Linked_List_Cycle.java. Using fallback presentation compiler.
+Oct 21, 2026 7:28:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.10.21 19:28:33 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\46_Linked_List_Cycle.java. Using fallback presentation compiler.
