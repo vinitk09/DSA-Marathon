@@ -226,3 +226,227 @@ WARNING: Unmatched cancel notification for request id 108
 2026.10.21 19:59:51 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\48_Bonus_Linkedlist_Palindrome.java
 2026.10.21 19:59:51 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\48_Bonus_Linkedlist_Palindrome.java. Using fallback presentation compiler.
 2026.10.21 19:59:52 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\48_Bonus_Linkedlist_Palindrome.java. Using fallback presentation compiler.
+2026.10.21 20:42:16 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java
+2026.10.21 20:42:16 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/49_Remove_From_Nth_Node.java. Output:
+
+2026.10.21 20:42:16 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:16 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+Oct 21, 2026 8:42:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 120
+2026.10.21 20:42:16 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:16 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+Oct 21, 2026 8:42:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 121
+2026.10.21 20:42:16 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:16 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:16 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:17 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java
+2026.10.21 20:42:17 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:17 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/49_Remove_From_Nth_Node.java. Output:
+
+2026.10.21 20:42:18 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:18 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:18 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:19 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:19 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:19 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:20 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java
+2026.10.21 20:42:20 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:20 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/49_Remove_From_Nth_Node.java. Output:
+
+2026.10.21 20:42:20 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:20 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:27 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:27 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:27 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:27 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:27 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:28 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java
+2026.10.21 20:42:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 20:42:29 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\49_Remove_From_Nth_Node.java. Using fallback presentation compiler.
+2026.10.21 21:00:22 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java
+2026.10.21 21:00:22 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/50_Intersection_LinkedList.java. Output:
+
+2026.10.21 21:00:22 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:23 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:23 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:23 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:23 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:23 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:23 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:24 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java
+2026.10.21 21:00:24 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:24 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/50_Intersection_LinkedList.java. Output:
+
+2026.10.21 21:00:25 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:25 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:25 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:25 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:25 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:26 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:26 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java
+2026.10.21 21:00:26 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:25 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/50_Intersection_LinkedList.java. Output:
+
+2026.10.21 21:00:26 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java
+2026.10.21 21:00:26 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:00:26 INFO  no build target found for c:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersection_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:00:27 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:00:26 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:00:26 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:00:27 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:00:27 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:00:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:18 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:18 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:28 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java
+2026.10.21 21:30:28 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/51_Delete_Node.java. Output:
+
+2026.10.21 21:30:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:29 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:28 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:29 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java
+2026.10.21 21:30:29 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:29 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/51_Delete_Node.java. Output:
+
+2026.10.21 21:30:30 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:30 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:30 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:31 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:31 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:31 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/51_Delete_Node.java. Output:
+
+2026.10.21 21:30:31 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:31 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:31 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+Oct 21, 2026 9:30:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 230
+2026.10.21 21:30:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:31 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:32 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java
+2026.10.21 21:30:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\51_Delete_Node.java. Using fallback presentation compiler.
+2026.10.21 21:30:33 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:33 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java
+2026.10.21 21:30:33 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:33 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:33 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:33 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:34 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:34 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:52 INFO  no build target found for c:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:52 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java
+2026.10.21 21:30:52 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:52 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:52 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:52 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:53 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:53 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:53 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:54 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java
+2026.10.21 21:30:54 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:53 INFO  no build target found for c:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:54 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java
+2026.10.21 21:30:54 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:54 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:54 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:57 INFO  no build target found for c:\Users\ventu\Desktop\DSAMarathon\LinkedList\Solution.java. Using fallback presentation compiler.
+2026.10.21 21:30:57 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java
+2026.10.21 21:30:57 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:57 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:58 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:59 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.21 21:30:59 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:41:18 INFO  Tracing is disabled for protocol LSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at c:\Users\ventu\Desktop\DSAMarathon\.metals\lsp.trace.json or C:\Users\ventu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2026.10.24 16:41:21 INFO  logging to files C:\Users\ventu\Desktop\DSAMarathon\.metals\metals.log
+2026.10.24 16:41:21 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\ventu\Desktop\DSAMarathon' for client Visual Studio Code 1.143.1.
+2026.10.24 16:41:21 INFO  Memory monitor started
+2026.10.24 16:41:30 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.24 16:41:32 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+Oct 24, 2026 4:41:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.10.24 16:41:33 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:41:33 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:41:34 WARN  no build tool detected in workspace 'C:\Users\ventu\Desktop\DSAMarathon'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.10.24 16:41:35 WARN  Build server is not auto-connectable.
+2026.10.24 16:41:36 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java
+2026.10.24 16:41:36 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:41:39 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+Oct 24, 2026 4:41:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.10.24 16:41:41 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:41:42 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:41:43 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:41:45 INFO  time: code lens generation in 5.93s
+2026.10.24 16:43:13 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\ventu\Desktop\DSAMarathon' for client Visual Studio Code 1.143.1.
+2026.10.24 16:43:13 INFO  Memory monitor started
+2026.10.24 16:43:19 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.24 16:43:20 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+Oct 24, 2026 4:43:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.10.24 16:43:20 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:43:20 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+Oct 24, 2026 4:43:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2026.10.24 16:43:21 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:43:20 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:43:20 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+Oct 24, 2026 4:43:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.10.24 16:43:21 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+Oct 24, 2026 4:43:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.10.24 16:43:21 WARN  no build tool detected in workspace 'C:\Users\ventu\Desktop\DSAMarathon'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.10.24 16:43:21 WARN  Build server is not auto-connectable.
+2026.10.24 16:43:21 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java
+2026.10.24 16:43:21 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\50_Intersect_LinkedList.java. Using fallback presentation compiler.
+2026.10.24 16:48:47 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:47 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java
+2026.10.24 16:48:47 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/52_AddTwo_Number.java. Output:
+
+2026.10.24 16:48:49 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:49 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:49 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java
+2026.10.24 16:48:49 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/52_AddTwo_Number.java. Output:
+
+2026.10.24 16:48:49 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+Oct 24, 2026 4:48:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2026.10.24 16:48:49 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:49 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:49 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:49 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:50 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:51 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:51 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java
+2026.10.24 16:48:51 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:51 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/52_AddTwo_Number.java. Output:
+
+2026.10.24 16:48:51 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:51 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:51 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:52 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:52 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java
+2026.10.24 16:48:52 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:48:52 WARN  Running javac-semanticdb failed for file:///C:/Users/ventu/Desktop/DSAMarathon/LinkedList/52_AddTwo_Number.java. Output:
+
+2026.10.24 16:49:11 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:49:11 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:49:12 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+Oct 24, 2026 4:49:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+2026.10.24 16:49:11 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:49:12 WARN  no build target for: C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java
+2026.10.24 16:49:12 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
+2026.10.24 16:49:13 INFO  no build target found for C:\Users\ventu\Desktop\DSAMarathon\LinkedList\52_AddTwo_Number.java. Using fallback presentation compiler.
